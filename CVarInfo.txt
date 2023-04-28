@@ -1,0 +1,2 @@
+server noarchive float sv_damagereceivedfactor = 1.0;
+server noarchive float sv_damagedealtfactor = 1.0;
